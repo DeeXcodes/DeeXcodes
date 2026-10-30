@@ -1,6 +1,6 @@
 # Hi, I'm Deeksha Singh 👋
 
-### M.Sc. Data Science Student | AI/ML Enthusiast | Research Explorer
+### M.Sc. Data Science Student | Research Explorer
 
 I'm currently pursuing my M.Sc. in Data Science, with an academic background in Biochemistry. I'm passionate about exploring Artificial Intelligence, Machine Learning, and data-driven technologies.
 
